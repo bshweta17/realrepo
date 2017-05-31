@@ -1,1 +1,1 @@
-%time%
+@echo %time%
